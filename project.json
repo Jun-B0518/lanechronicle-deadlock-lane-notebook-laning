@@ -1,0 +1,41 @@
+{
+  "id": 53,
+  "category": "game-companion",
+  "slug": "deadlock-lane-notebook",
+  "target": "Deadlock",
+  "appid": "1422450",
+  "summaryRu": "Журнал ручных наблюдений о линиях и экономических решениях после матча.",
+  "features": [
+    "Lane review cards",
+    "Item timing worksheets",
+    "Patch annotation log"
+  ],
+  "title": "LaneChronicle — Deadlock — Laning",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "LaneChronicle",
+  "repositoryName": "lanechronicle-deadlock-lane-notebook-laning",
+  "githubTopics": [
+    "deadlock",
+    "lane-review",
+    "item-timing",
+    "patch-notes",
+    "game-companion",
+    "manual-planning",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "laning"
+}
